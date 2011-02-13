@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timer", "timer\timer.vcproj", "{E5F994B6-BA1C-4C71-927E-5B518D742019}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stopwatch", "stopwatch\stopwatch.vcproj", "{E67A40B4-39D1-46AD-AC91-076C72B230B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{E5F994B6-BA1C-4C71-927E-5B518D742019}.Debug|Win32.Build.0 = Debug|Win32
 		{E5F994B6-BA1C-4C71-927E-5B518D742019}.Release|Win32.ActiveCfg = Release|Win32
 		{E5F994B6-BA1C-4C71-927E-5B518D742019}.Release|Win32.Build.0 = Release|Win32
+		{E67A40B4-39D1-46AD-AC91-076C72B230B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E67A40B4-39D1-46AD-AC91-076C72B230B4}.Debug|Win32.Build.0 = Debug|Win32
+		{E67A40B4-39D1-46AD-AC91-076C72B230B4}.Release|Win32.ActiveCfg = Release|Win32
+		{E67A40B4-39D1-46AD-AC91-076C72B230B4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
